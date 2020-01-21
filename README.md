@@ -1,0 +1,2 @@
+py读取word,操作excel自动将考试题目转化为excel文档。
+支持Excel转json文件，导入腾讯小程序云数据库。
